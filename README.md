@@ -175,7 +175,14 @@ Translating cut, color, and clarity through one-hot encoding because the regress
 
 ![one_hot_column](/image/one_hot_col.PNG)
 
+</center>
+<center>
+
 $\downarrow$
+
+</center>
+
+<center>
 
 ![one_hot](/image/one_hot.PNG)
 
