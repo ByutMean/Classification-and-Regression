@@ -169,26 +169,26 @@ Feature importance
 
 ### Data Pre-processing
 
+#### One-hot encoding
 Translating cut, color, and clarity through one-hot encoding because the regression model does not accept categorical variables
 
-<center>
+<br>
+
+
 before
 
 ![one_hot_column](/image/one_hot_col.PNG)
-</center>
 
-<center> &#8595; </center>
-
-<center>
 after 
 
 ![one_hot](/image/one_hot.PNG)
-</center> 
 
 
 <br>
 
-Correlation
+<br>
+
+#### Correlation
 
 ![corr](/image/corr.PNG)
 
