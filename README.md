@@ -172,22 +172,17 @@ Feature importance
 Translating cut, color, and clarity through one-hot encoding because the regression model does not accept categorical variables
 
 <center>
+before
 
 ![one_hot_column](/image/one_hot_col.PNG)
-
-</center>
-<center>
-
-&#8595;
-
-$\downarrow$
-
 </center>
 
+<center> &#8595; </center>
+
 <center>
+after 
 
 ![one_hot](/image/one_hot.PNG)
-
 </center> 
 
 
