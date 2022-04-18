@@ -178,6 +178,8 @@ Translating cut, color, and clarity through one-hot encoding because the regress
 </center>
 <center>
 
+&#8595;
+
 $\downarrow$
 
 </center>
